@@ -1,0 +1,206 @@
+Total number of unique URLs crawled: 33647
+
+Page with most words:
+
+	URL:	http://www.ics.uci.edu/~eppstein/bibs/kpath.bib
+	Words:	60833
+
+
+50 most common words across crawled pages:
+
+	1.	http: 49191
+	2.	says: 32722
+	3.	2019: 30696
+	4.	data: 26623
+	5.	class: 25390
+	6.	title: 21379
+	7.	computer: 19892
+	8.	2017: 18394
+	9.	href: 17694
+	10.	nofollow: 17577
+	11.	urlextern: 17560
+	12.	2018: 17142
+	13.	2014: 15811
+	14.	learning: 15068
+	15.	2016: 14676
+	16.	publications: 14431
+	17.	image: 13826
+	18.	bioinformatics: 13444
+	19.	technical: 12980
+	20.	software: 12649
+	21.	size: 12643
+	22.	details: 12549
+	23.	original: 12437
+	24.	time: 12293
+	25.	2013: 12192
+	26.	news: 12164
+	27.	content: 12003
+	28.	science: 11983
+	29.	search: 11852
+	30.	october: 11618
+	31.	irvine: 11151
+	32.	systems: 11148
+	33.	university: 10983
+	34.	2015: 10784
+	35.	article: 10089
+	36.	canon: 10058
+	37.	students: 9657
+	38.	bren: 9471
+	39.	equiv: 9310
+	40.	2010: 9194
+	41.	nature: 9150
+	42.	genome: 9081
+	43.	july: 8863
+	44.	2009: 8792
+	45.	school: 8774
+	46.	journal: 8605
+	47.	work: 8549
+	48.	post: 8548
+	49.	september: 8367
+	50.	number: 8325
+
+
+Subdomains found in ICS and total page occurances:
+
+	www.ics.uci.edu: 20662
+	ngs.ics.uci.edu: 2039
+	archive.ics.uci.edu: 1811
+	sli.ics.uci.edu: 1540
+	wics.ics.uci.edu: 1519
+	cbcl.ics.uci.edu: 1420
+	evoke.ics.uci.edu: 497
+	hack.ics.uci.edu: 414
+	sdcl.ics.uci.edu: 225
+	cml.ics.uci.edu: 223
+	vision.ics.uci.edu: 216
+	fano.ics.uci.edu: 193
+	computableplant.ics.uci.edu: 136
+	mailman.ics.uci.edu: 104
+	isg.ics.uci.edu: 91
+	cradl.ics.uci.edu: 77
+	duttgroup.ics.uci.edu: 76
+	transformativeplay.ics.uci.edu: 55
+	flamingo.ics.uci.edu: 48
+	cloudberry.ics.uci.edu: 47
+	tutors.ics.uci.edu: 44
+	emj.ics.uci.edu: 43
+	mcs.ics.uci.edu: 42
+	mondego.ics.uci.edu: 41
+	cert.ics.uci.edu: 38
+	seal.ics.uci.edu: 38
+	mdogucu.ics.uci.edu: 35
+	dynamo.ics.uci.edu: 33
+	cybert.ics.uci.edu: 27
+	mswe.ics.uci.edu: 20
+	mlphysics.ics.uci.edu: 20
+	honors.ics.uci.edu: 19
+	futurehealth.ics.uci.edu: 17
+	jgarcia.ics.uci.edu: 17
+	hombao.ics.uci.edu: 16
+	mhcid.ics.uci.edu: 16
+	asterix.ics.uci.edu: 15
+	iasl.ics.uci.edu: 15
+	support.ics.uci.edu: 14
+	graphmod.ics.uci.edu: 14
+	cyberclub.ics.uci.edu: 13
+	wearablegames.ics.uci.edu: 12
+	cwicsocal18.ics.uci.edu: 12
+	graphics.ics.uci.edu: 11
+	www.graphics.ics.uci.edu: 10
+	hobbes.ics.uci.edu: 10
+	circadiomics.ics.uci.edu: 10
+	fr.ics.uci.edu: 9
+	plrg.ics.uci.edu: 9
+	sherlock.ics.uci.edu: 8
+	testlab.ics.uci.edu: 8
+	studentcouncil.ics.uci.edu: 8
+	chenli.ics.uci.edu: 8
+	scale.ics.uci.edu: 7
+	nalini.ics.uci.edu: 7
+	redmiles.ics.uci.edu: 7
+	ibook.ics.uci.edu: 7
+	alumni.ics.uci.edu: 6
+	psearch.ics.uci.edu: 6
+	xtune.ics.uci.edu: 6
+	radicle.ics.uci.edu: 6
+	hai.ics.uci.edu: 6
+	hana.ics.uci.edu: 6
+	selectpro.proteomics.ics.uci.edu: 6
+	sconce.ics.uci.edu: 5
+	esl.ics.uci.edu: 5
+	calendar.ics.uci.edu: 5
+	pepito.proteomics.ics.uci.edu: 5
+	statconsulting.ics.uci.edu: 5
+	asterixdb.ics.uci.edu: 4
+	luci.ics.uci.edu: 4
+	sourcerer.ics.uci.edu: 4
+	sana.ics.uci.edu: 4
+	scratch.proteomics.ics.uci.edu: 4
+	tmbpro.ics.uci.edu: 4
+	sparcfire.ics.uci.edu: 3
+	kdd.ics.uci.edu: 3
+	malek.ics.uci.edu: 3
+	riscit.ics.uci.edu: 3
+	cbclwiki.ics.uci.edu: 3
+	mine5.ics.uci.edu:1026: 3
+	mine10.ics.uci.edu: 3
+	frost.ics.uci.edu: 2
+	sprout.ics.uci.edu: 2
+	auge.ics.uci.edu: 2
+	seraja.ics.uci.edu: 2
+	jujube.ics.uci.edu: 2
+	dblp.ics.uci.edu: 2
+	ipf.ics.uci.edu: 2
+	ugradforms.ics.uci.edu: 2
+	awareness.ics.uci.edu: 2
+	aiclub.ics.uci.edu: 2
+	mse.ics.uci.edu: 2
+	informatics.ics.uci.edu: 2
+	mupro.proteomics.ics.uci.edu: 2
+	betapro.proteomics.ics.uci.edu: 2
+	checkmate.ics.uci.edu: 1
+	helpdesk.ics.uci.edu: 1
+	nile.ics.uci.edu: 1
+	grape.ics.uci.edu: 1
+	www.isg.ics.uci.edu: 1
+	ipubmed.ics.uci.edu: 1
+	se.ics.uci.edu: 1
+	omni.ics.uci.edu: 1
+	keys.ics.uci.edu: 1
+	timesheet.ics.uci.edu: 1
+	labbie.ics.uci.edu: 1
+	www.ucf.ics.uci.edu: 1
+	jobs.ics.uci.edu: 1
+	elms.ics.uci.edu: 1
+	yarra.ics.uci.edu: 1
+	cgvw.ics.uci.edu: 1
+	tastier.ics.uci.edu: 1
+	satware.ics.uci.edu: 1
+	dataprotector.ics.uci.edu: 1
+	dataguard.ics.uci.edu: 1
+	mapgrid.ics.uci.edu: 1
+	lolth.ics.uci.edu: 1
+	givargis.ics.uci.edu: 1
+	www.informatics.ics.uci.edu: 1
+	piki.ics.uci.edu: 1
+	vid.ics.uci.edu: 1
+	perennialpolycultures.ics.uci.edu: 1
+	dejavu.ics.uci.edu: 1
+	vip.ics.uci.edu: 1
+	tippersweb.ics.uci.edu: 1
+	students.ics.uci.edu: 1
+	intranet.ics.uci.edu: 1
+	codeexchange.ics.uci.edu: 1
+	soc.ics.uci.edu: 1
+	metaviz.ics.uci.edu: 1
+	motifmap.ics.uci.edu: 1
+	chime.ics.uci.edu: 1
+	cherry.ics.uci.edu: 1
+	gonet.genomics.ics.uci.edu: 1
+	contact14.ics.uci.edu: 1
+	closeup.ics.uci.edu: 1
+	sidepro.proteomics.ics.uci.edu: 1
+	cdb.ics.uci.edu: 1
+
+	Unique Subdomains found: 139
+	Total Page Occurances:   32256
