@@ -1,6 +1,6 @@
 # Web-Crawler
 
-Web Crawler that crawls through all pages within the uci domain.
+This program is an implementation of a web crawler that downloads all valid urls within the uci domain. Valid extensions are specified within the launch.py file.
 
 Multi-threading has not been implemented in this version of the program.
 
